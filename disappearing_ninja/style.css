@@ -1,0 +1,12 @@
+.container {
+    margin: 0px auto;
+    width: 520px;
+    height: 500px;
+    border: 2px solid black;
+}
+.style {
+    width:100px ;
+    height:100px;
+    margin:10px;
+    border: 2px solid black;
+}
